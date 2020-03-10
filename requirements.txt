@@ -1,2 +1,5 @@
 Django >= 2.2, <3.0
 psycopg2 >= 2.5.4
+djangorestframework-gis
+django-filter
+markdown
